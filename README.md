@@ -168,4 +168,4 @@ For tests or custom setups, set `SHELLPIN_HOME`.
 
 ## License
 
-MIT
+Apache License 2.0. See [LICENSE](LICENSE).
