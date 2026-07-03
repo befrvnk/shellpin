@@ -1,0 +1,17 @@
+# Go
+/bin/
+/dist/
+*.test
+coverage.out
+
+# Nix
+result
+result-*
+
+# devenv
+.devenv/
+devenv.local.nix
+devenv.local.yaml
+
+# macOS
+.DS_Store
